@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="check">COMPRUEBA</string>
+    <string name="question">Pregunta</string>
+    <string name="correct">Muy bien!!</string>
+    <string name="incorrect">Incorrecto...</string>
+    <string name="next">siguente</string>
+    <string name="Finish">Acabar</string>
+    <string name="Previous">Anterior</string>
+    <string name="results">Resultados</string>
+    <string name="start_over">Volver a Empezar</string>
+
+    <array name="all_questions">
+
+        <item>Cuál es la capital de Bhutan?;Ouagadougou;Pnhohm Penh;*Thimphu;Zgighiti</item>
+        <item>Cuál es la capital de España?;Toledo;Barcelona;Ourense;*Madrid</item>
+        <item>Cuál es la capital de Tailándia?;*Bangkok;Chaiyaphum;Phichit;Yasothon</item>
+        <item>Cuál es la capital de Corea del Norte?;Seoul;Busan;*Pyongyang;Daegu</item>
+
+    </array>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">MultiQuizPro</string>
+    <string name="question">Question</string>
+    <string name="check">CHECK</string>
+    <string name="correct">Very good!!</string>
+    <string name="incorrect">Incorrect...</string>
+    <string name="next">next</string>
+    <string name="Finish">Finish</string>
+    <string name="Previous">Previous</string>
+    <string name="results">Results</string>
+    <string name="start_over">Start Over</string>
+
+    <array name="all_questions">
+
+        <item>What is the capital of Bhutan?;Ouagadougou;Phnom Penh;*Thimphu;Zgighiti</item>
+        <item>What is the capital of Spain?;Toledo;Barcelona;Ourense;*Madrid</item>
+        <item>What is the capital of Thailand?;*Bangkok;Chaiyaphum;Phichit;Yasothon</item>
+        <item>What is the capital of North Korea?;Seoul;Busan;*Pyongyang;Daegu</item>
+    </array>
+
+</resources>
